@@ -1,6 +1,6 @@
 import unittest
 
-from tps.contar_palabras.contar_palabras import contar_palabras
+from contar_palabras import contar_palabras
 
 
 class MyTest(unittest.TestCase):
